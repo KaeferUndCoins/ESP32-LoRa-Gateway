@@ -1,2 +1,2 @@
-# ESP32-LoRa-Gateway
-ESP32 LoRa receiver which connects via WiFi to any Internet AP to send LoRa messages to web sevice.
+# ESP32-LoRa-Sensor-Node
+Sensor Node sends sensor data from ESP32 via LoRa to LoRa gateway
